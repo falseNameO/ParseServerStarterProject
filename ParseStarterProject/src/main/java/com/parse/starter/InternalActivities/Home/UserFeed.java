@@ -13,6 +13,7 @@ import android.widget.LinearLayout;
 import com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx;
 import com.parse.starter.R;
 import com.parse.starter.Utils.BottomNavigationViewHelper;
+import com.parse.starter.Utils.SectionPagerAdapter;
 
 public class UserFeed extends AppCompatActivity {
 

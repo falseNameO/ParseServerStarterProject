@@ -17,4 +17,13 @@
     <string name="helpSigningIn">Forgot your login details?"<b>"Get help signing in."</b>"</string>
     <string name="signUp">Don\'t have an account?"<b>"Sign up."</b>"</string>
 
+    <string name="photos_of_you">Photos of You</string>
+    <string name="saved">Saved</string>
+    <string name="story_settings">Story Settings</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="posts_you_liked">Posts You\'ve Liked</string>
+    <string name="blocked_users">Blocked Users</string>
+    <string name="private_account">Parse Starter Project</string>
+
 </resources>

@@ -1,4 +1,4 @@
-package com.parse.starter.InternalActivities.Home;
+package com.parse.starter.Utils;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

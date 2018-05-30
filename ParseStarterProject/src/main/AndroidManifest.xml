@@ -43,6 +43,7 @@
         <activity android:name=".InternalActivities.Likes.LikesActivity" />
         <activity android:name=".InternalActivities.Profile.ProfileActivity" />
         <activity android:name=".InternalActivities.Search.SerachActivity" />
+        <activity android:name=".InternalActivities.Profile.AccountSettingsActivity"/>
 
     </application>
 
